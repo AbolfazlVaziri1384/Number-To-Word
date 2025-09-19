@@ -18,7 +18,7 @@ A Python program that converts numerical values into their English word represen
 1. Ensure you have Python 3.x installed on your system
 2. Run the script using:
    ```bash
-   python number_to_words.py
+   python main.py
    ```
 
 ### Interactive Mode
